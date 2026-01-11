@@ -1,4 +1,4 @@
-Von Bens Team 
+
 
 
 > Diese Seite bei [https://benmarcelsaar.github.io/wack-game/](https://benmarcelsaar.github.io/wack-game/) öffnen
